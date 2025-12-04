@@ -45,6 +45,11 @@ Final notunuzun ortalamanızı % kaç etkilediğini yazınız : 60
 
 Ortalama Notunuz : 84.0
 Harf Notunuz : BB
+## 📊 Akış Şeması
+
+Aşağıda uygulamanın genel çalışma mantığını gösteren akış şeması bulunmaktadır:
+
 <p align="center">
-  <img src="AkısSeması.png" alt="Akış Şeması" width="600">
+  <img src="./AkisSemasi.png" alt="Akış Şeması" width="600">
 </p>
+
