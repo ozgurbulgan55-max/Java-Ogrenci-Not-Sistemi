@@ -52,4 +52,4 @@ Harf Notunuz : BB
 
 Aşağıda uygulamanın genel çalışma mantığını gösteren akış şeması bulunmaktadır:
 
-![Akış Şeması](AkısSeması.png)
+![Akış Şeması](flowchart.png)
