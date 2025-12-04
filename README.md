@@ -46,4 +46,6 @@ Final notunuzun ortalamanızı % kaç etkilediğini yazınız : 60
 Ortalama Notunuz : 84.0
 Harf Notunuz : BB
 ## 📊 Akış Şeması
+
 ![Akış Şeması](images/flowchart.png)
+
