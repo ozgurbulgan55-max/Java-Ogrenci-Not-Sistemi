@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-17-orange?logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Platform-Console-blue" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipseide&logoColor=white" />
+  <img src="https://img.shields.io/badge/License-MIT-green" />
+</p>
 # 🎓 Java Öğrenci Not Sistemi  
 Java ile geliştirilmiş, kullanıcıdan alınan vize–final notlarına göre öğrencinin ortalamasını hesaplayan ve harf notunu belirleyen konsol tabanlı bir uygulamadır.
 
