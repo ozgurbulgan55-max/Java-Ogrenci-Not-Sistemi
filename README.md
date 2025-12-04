@@ -48,9 +48,4 @@ Harf Notunuz : BB
 '''
 ## 📊 Akış Şeması
 
-Aşağıda uygulamanın genel çalışma mantığını gösteren akış şeması bulunmaktadır:
-
-<p align="center">
-  <img src="./AkisSemasi.png" alt="Akış Şeması" width="600">
-</p>
-
+![Akış Şeması](flowchart.png)
