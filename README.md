@@ -47,4 +47,4 @@ Ortalama Notunuz : 84.0
 Harf Notunuz : BB
 ## 📊 Akış Şeması
 
-![Akış Şeması](flowchart.png)
+![Akış Şeması](images/flowchart.png)
