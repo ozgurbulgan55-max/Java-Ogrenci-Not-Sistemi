@@ -54,7 +54,5 @@ Harf Notunuz : BB
 Aşağıda uygulamanın genel çalışma mantığını gösteren akış şeması bulunmaktadır:
 
 <p align="center">
-  <img src="AkisSemasi.png" alt="Akış Şeması" width="600">
+<img src="AkisSemasi.png" alt="Akış Şeması" width="600">
 </p>
-
-
