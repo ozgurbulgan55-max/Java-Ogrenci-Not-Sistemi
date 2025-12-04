@@ -46,5 +46,5 @@ Final notunuzun ortalamanızı % kaç etkilediğini yazınız : 60
 Ortalama Notunuz : 84.0
 Harf Notunuz : BB
 <p align="center">
-  <img src="AkisSemasI.png" alt="Akış Şeması" width="600">
+  <img src="AkısSeması.png" alt="Akış Şeması" width="600">
 </p>
