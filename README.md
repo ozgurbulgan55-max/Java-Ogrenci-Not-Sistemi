@@ -19,21 +19,22 @@ Uygulama, temel kontrol yapıları, fonksiyonlar, kullanıcıdan veri alma ve ko
 
 ## 📂 Proje Yapısı
 
+
 ---
 
 ## 🧮 Kullanılan Teknolojiler
 
 - **Eclipse IDE**
 - **Scanner** sınıfı ile dinamik kullanıcı girişi  
-- Modüler fonksiyon yapısı (HarfNotu metodu)
+- **Modüler fonksiyon yapısı** (HarfNotu metodu)
 
 ---
 
 ## 🖥️ Konsol Çalışma Örneği
 
 ```text
--------------------------  
-     Öğrenci Not Sistemi  
+-------------------------
+     Öğrenci Not Sistemi
 -------------------------
 
 Lütfen vize notunuzu giriniz : 75
@@ -44,11 +45,3 @@ Final notunuzun ortalamanızı % kaç etkilediğini yazınız : 60
 
 Ortalama Notunuz : 84.0
 Harf Notunuz : BB
----
-## 📊 Akış Şeması
-
-Aşağıda uygulamanın genel çalışma mantığını gösteren akış şeması bulunmaktadır:
-
-<p align="center">
-  <img src="AkisSemasi.png" alt="Akış Şeması" width="600">
-</p>
