@@ -48,8 +48,9 @@ Harf Notunuz : BB
 
 ---
 
+
 ## 📊 Akış Şeması
 
 Aşağıda uygulamanın genel çalışma mantığını gösteren akış şeması bulunmaktadır:
+![Akış Şeması](AkisSemasi.png)
 
-![Akış Şeması](AkısSeması.png)
